@@ -1,2 +1,4 @@
 # WA_Vjezbe
-Repozitorij za vjezbe iz kolegija Web aplikacije (FIPU)
+Repozitorij za vjezbe iz kolegija Web aplikacije (FIPU).
+
+
