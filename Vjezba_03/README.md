@@ -8,9 +8,9 @@
 
 
 
-Aplikacija se sastoji od \*\*backend\*\* i \*\*frontend\*\* dijela.
+Aplikacija se sastoji od **backend** i **frontend** dijela.
 
-Prije pokretanja potrebno je imati instaliran \*\*Node.js\*\*.
+Prije pokretanja potrebno je imati instaliran **Node.js**.
 
 
 
@@ -20,13 +20,13 @@ Prije pokretanja potrebno je imati instaliran \*\*Node.js\*\*.
 
 
 
-1\. \*\*Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije\*\*:
+1. **Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije\*\*:
 
-&nbsp;     ```sh
+      ```sh
       cd pizzaexpress
       ```
 
-2\. \*\*Instalirajte potrebne pakete:\*\*: 
+2. **Instalirajte potrebne pakete:**: 
 
       ```sh
 
@@ -34,7 +34,7 @@ Prije pokretanja potrebno je imati instaliran \*\*Node.js\*\*.
 
       ```
 
-3\. \*\*Pokrenite backend poslužitelj\*\*: 
+3. **Pokrenite backend poslužitelj**: 
 
       ```sh
 
@@ -42,7 +42,7 @@ Prije pokretanja potrebno je imati instaliran \*\*Node.js\*\*.
 
       ```
 
-4\. \*\*Nakon pokretanja, backend poslužitelj dostupan je na adresi\*\*: 
+4. **Nakon pokretanja, backend poslužitelj dostupan je na adresi**: 
 
       ```sh
 
@@ -52,19 +52,19 @@ Prije pokretanja potrebno je imati instaliran \*\*Node.js\*\*.
 
 
 
-\### Frontend
+### Frontend
 
 
 
-1\. \*\*Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi frontend dio aplikacije\*\*:
+1. **Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi frontend dio aplikacije**:
 
-      ```sh       
+      ```sh
+      
+      cd pizzavue
+      
+      ```
 
-&nbsp;     cd pizzavue
-
-&nbsp;     ```
-
-2\. \*\*Instalirajte potrebne pakete:\*\*:
+2. **Instalirajte potrebne pakete:**:
 
       ```sh
 
