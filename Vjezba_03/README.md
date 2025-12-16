@@ -20,18 +20,13 @@ Prije pokretanja potrebno je imati instaliran **Node.js**.
 
 
 
-1. **Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije\*\*:
-
-      ```sh
-      cd pizzaexpress
+1. **Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije**:
+      ```sh 
+      cd pizzaexpress 
       ```
-
 2. **Instalirajte potrebne pakete:**: 
-
       ```sh
-
       npm install
-
       ```
 
 3. **Pokrenite backend poslužitelj**: 
