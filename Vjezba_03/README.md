@@ -18,32 +18,22 @@ Prije pokretanja potrebno je imati instaliran **Node.js**.
 
 ### Backend
 
-
-
-1. **Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije**:
-      ```sh 
-      cd pizzaexpress 
-      ```
+1. **Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije**:     
+```
+cd pizzaexpress 
+```
 2. **Instalirajte potrebne pakete:**: 
-      ```sh
-      npm install
-      ```
-
+```
+npm install
+```
 3. **Pokrenite backend poslužitelj**: 
-
-      ```sh
-
-      node index.js
-
-      ```
-
+```
+node index.js
+```
 4. **Nakon pokretanja, backend poslužitelj dostupan je na adresi**: 
-
-      ```sh
-
-      http://localhost:3000
-
-      ```
+```
+http://localhost:3000
+```
 
 
 
@@ -52,36 +42,22 @@ Prije pokretanja potrebno je imati instaliran **Node.js**.
 
 
 1. **Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi frontend dio aplikacije**:
-
-      ```sh
+```
       
-      cd pizzavue
-      
-      ```
-
+cd pizzavue
+```
 2. **Instalirajte potrebne pakete:**:
-
-      ```sh
-
-      npm install
-
-      ```
-
-3\. \*\*Pokrenite frontend aplikaciju\*\*:
-
-      ```sh
-
-      npm run dev
-
-      ```
-
-4\. \*\*Nakon pokretanja, backend poslužitelj dostupan je na adresi\*\*:
-
-      ```sh
-
-      http://localhost:5173
-
-      ```
+```
+npm install
+```
+3. **Pokrenite frontend aplikaciju**:
+```
+npm run dev
+```
+4. **Nakon pokretanja, backend poslužitelj dostupan je na adresi**:
+```
+http://localhost:5173
+```
 
 
 
