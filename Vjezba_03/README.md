@@ -1,8 +1,8 @@
-\# Vježba 3 - Razmjena podataka između klijenta i poslužitelja
+# Vježba 3 - Razmjena podataka između klijenta i poslužitelja
 
 
 
-\## Pokretanje aplikacije
+## Pokretanje aplikacije
 
 
 
@@ -16,7 +16,7 @@ Prije pokretanja potrebno je imati instaliran \*\*Node.js\*\*.
 
 
 
-\### Backend
+### Backend
 
 
 
