@@ -52,7 +52,7 @@ Prije pokretanja potrebno je imati instaliran **Node.js**.
    ```
    npm run dev
    ```
-4. **Nakon pokretanja, backend poslužitelj dostupan je na adresi**:
+4. **Nakon pokretanja, frontend aplikacija dostupna je na adresi**:
    ```
    http://localhost:5173
    ```
