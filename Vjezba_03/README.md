@@ -1,70 +1,92 @@
-Vježba 3 
+\# Vježba 3 - Razmjena podataka između klijenta i poslužitelja
 
 
 
-Pokretanje aplikacije
+\## Pokretanje aplikacije
 
 
 
-Aplikacija se sastoji od backend i frontend dijela.
-
-Prije pokretanja potrebno je imati instaliran Node.js.
 
 
+Aplikacija se sastoji od \*\*backend\*\* i \*\*frontend\*\* dijela.
 
-Backend
+Prije pokretanja potrebno je imati instaliran \*\*Node.js\*\*.
 
 
 
-Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije:
-
-cd pizzaexpress
 
 
-
-Instalirajte potrebne pakete:
-
-npm install
+\### Backend
 
 
 
-Pokrenite backend poslužitelj:
+1\. \*\*Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi backend dio aplikacije\*\*:
 
-node index.js
+&nbsp;     ```sh
+      cd pizzaexpress
+      ```
 
+2\. \*\*Instalirajte potrebne pakete:\*\*: 
 
+      ```sh
 
-Nakon pokretanja, backend poslužitelj dostupan je na adresi:
+      npm install
 
-http://localhost:3000
+      ```
 
+3\. \*\*Pokrenite backend poslužitelj\*\*: 
 
+      ```sh
 
-Frontend
+      node index.js
 
+      ```
 
+4\. \*\*Nakon pokretanja, backend poslužitelj dostupan je na adresi\*\*: 
 
-Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi frontend dio aplikacije:
+      ```sh
 
-cd pizzavue
+      http://localhost:3000
 
-
-
-Instalirajte potrebne pakete:
-
-npm install
-
-
-
-Pokrenite frontend aplikaciju:
-
-npm run dev
+      ```
 
 
 
-Nakon pokretanja, frontend aplikacija dostupna je na adresi:
+\### Frontend
 
-http://localhost:5173
+
+
+1\. \*\*Nakon lokalnog kloniranja repozitorija uđite u direktorij gdje se nalazi frontend dio aplikacije\*\*:
+
+      ```sh       
+
+&nbsp;     cd pizzavue
+
+&nbsp;     ```
+
+2\. \*\*Instalirajte potrebne pakete:\*\*:
+
+      ```sh
+
+      npm install
+
+      ```
+
+3\. \*\*Pokrenite frontend aplikaciju\*\*:
+
+      ```sh
+
+      npm run dev
+
+      ```
+
+4\. \*\*Nakon pokretanja, backend poslužitelj dostupan je na adresi\*\*:
+
+      ```sh
+
+      http://localhost:5173
+
+      ```
 
 
 
