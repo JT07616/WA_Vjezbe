@@ -25,9 +25,9 @@ Povezivanje na bazu podataka vrši se putem **varijabli okruženja** –
    MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>/
    MONGO_DB_NAME=pizza_db
    ```
-   > `pizza_db` je naziv baze podataka koja se koristi u aplikaciji.  
-   > Zamijenite `<username>`, `<password>` i `<cluster-url>` podacima vašeg MongoDB clustera.  
-   > Datoteka `.env` ne smije biti dodana u repozitorij.
+    `pizza_db` je naziv baze podataka koja se koristi u aplikaciji.  
+    Zamijenite `<username>`, `<password>` i `<cluster-url>` podacima vašeg MongoDB clustera.  
+   Datoteka `.env` ne smije biti dodana u repozitorij.
 3. **Instalirajte potrebne pakete**: 
    ```
    npm install
