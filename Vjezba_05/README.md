@@ -5,9 +5,8 @@
 
 Aplikacija se sastoji od **backend** i **frontend** dijela.
 
-Prije pokretanja potrebno je imati instaliran **Node.js**.
-
-Za rad aplikacije potrebno je imati **MongoDB Atlas cluster**.  
+Prije pokretanja potrebno je imati instaliran Node.js.
+Za rad aplikacije potrebno je imati MongoDB Atlas cluster.  
 Povezivanje na bazu podataka vrši se putem varijabli okruženja – MongoDB connection string i naziv baze ne verzioniraju se na GitHub.
 ---
 
